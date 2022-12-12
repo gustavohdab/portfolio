@@ -17,6 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org)
 - [Sanity](https://www.sanity.io/)
+- [Sass](https://sass-lang.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 
 ## 💻 Projeto
